@@ -946,3 +946,35 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+.MEGABRUT{
+  width: 500px;
+  border-radius: 6px;
+}
+.megabrut2{
+  
+  max-width: 500px;
+  max-height: 500px;
+}
+.brutov{
+  justify-content: center;
+  display: flex;
+  padding: auto;
+  margin-bottom: 5%;
+  gap: 50px;
+}
+.bbrut{
+  max-width: 500px;
+}
+.bbbrut{
+  text-align: left;
+}
+.bbbrut > br{
+  display: block;
+   margin: 10px 0;
+   line-height:22px;
+   content: " ";
+}
+.bbrut>strong{
+  
+  text-align: center;
+}
