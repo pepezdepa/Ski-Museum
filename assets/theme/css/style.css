@@ -988,3 +988,22 @@ blockquote {
 .okejvole {
   padding-bottom: 20px !important;
 }
+.kolok{
+  overflow: hidden;
+  border-radius: 15px;
+  height: 900px;
+  margin: auto;
+  width: 900px;
+}
+.velkej{
+
+  padding-bottom: 20px;
+  width: 100vw;
+  height: 1000px;
+  background-color: #9ed8db;
+
+}
+.cid-sQKDC1YAeq{
+  padding-bottom: 50px !important;
+
+}
